@@ -74,7 +74,7 @@ class ItemController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        $existingItem = Item::find( $id );
     }
 
     /**
