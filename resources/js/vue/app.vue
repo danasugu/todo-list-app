@@ -5,5 +5,7 @@ Hi!
 </template>
 
 <script>
-  
+  export default {
+    
+  }
 </script>
