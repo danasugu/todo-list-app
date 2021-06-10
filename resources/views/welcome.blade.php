@@ -12,7 +12,7 @@
         <!-- Styles -->
         
     </head>
-    <body class="antialiased">
+    <body>
         
     </body>
 </html>
