@@ -24,6 +24,7 @@
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
+        "eslint": "^7.28.0",
         "vue": "^2.6.14"
     }
 }
