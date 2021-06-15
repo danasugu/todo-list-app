@@ -9,9 +9,11 @@
 
 <script>
 import addItemForm from "./addItemForm"
+import listView from "./listView"
   export default {
     componentsL {
-      addItemForm
+      addItemForm,
+      listView
     }
   }
 </script>
