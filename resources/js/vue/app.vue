@@ -3,7 +3,6 @@
         <div class="heading">
           <h2 id="title">Todo list</h2>
           <add-item-form />
-
         </div>
         </div>
     </template>
@@ -14,6 +13,5 @@ import addItemForm from "./addItemForm"
     componentsL {
       addItemForm
     }
-
   }
 </script>
