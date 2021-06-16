@@ -21,5 +21,4 @@ import listView from "./listView"
   width: 350px;
   margin: auto;
 }
-
 <style
