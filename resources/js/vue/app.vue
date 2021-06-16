@@ -16,6 +16,10 @@ import listView from "./listView"
       listView
     }
   }
-</script>
+</script scoped>
+.todoListContainer {
+  width: 350px;
+  margin: auto;
+}
 
 <style
