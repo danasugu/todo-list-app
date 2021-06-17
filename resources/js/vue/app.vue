@@ -25,3 +25,12 @@ import ListView from './listView.vue'
   margin: auto;
 }
 <style
+
+.heading {
+  background: #e6e6e6;
+padding: 10px;
+}
+
+#title {
+  text-align: center;
+}
